@@ -1,0 +1,14 @@
+Steps Required to run the code and validate
+
+Open the file in android studio code and run the code
+The app contains Aes.java file which does encryption and decryption using AES CBC mode , key is stored safely in Key store after generation and retrieved when required in Encryption and Decryption
+
+The app contains Digest.java, it find SHA digest and also does authentication
+
+The app uses txt file to read the plaintext and writes its digest in digest.txt file.
+
+The input.txt file is kept in Assets folder.
+
+After opening the app give the input plaintext in input and then press Encrypt button to Encrypt the text and press Decrypt to get the original plaintext.
+
+To perform digest press sign button and press verify to get the validation.

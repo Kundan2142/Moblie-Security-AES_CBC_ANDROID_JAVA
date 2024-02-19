@@ -1,0 +1,7 @@
+This is the secret file for use in Assignment 2 of SIV810: Mobile Security
+
+Keep this file encrypted at rest.
+
+----SECRET_BEGINS----
+Cryptography is an art of securing information and communication, where only the sender and the intended recipient can view the content of the information. The term Cryptography is derived from the Greek word kryptos and graphy ,where kryptos means “Hidden” and graphy means “Art of writing”. The term Crypto has become verypopular after the introduction of crypto currencies like Bitcoin, Ethereum, etc. Cryptography is basically used to secure the electronic transaction where the sender encrypts the message and sends it over the network and the receiver decrypts the message to get the original content.
+----SECRET_ENDS----
